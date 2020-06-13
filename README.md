@@ -1,4 +1,4 @@
-# Gatsby公式チュートリアルで学ぶ React の基礎"
+# Gatsby公式チュートリアルで学ぶ React の基礎
 
 # Gatsbyを使ってみる
 
@@ -638,5 +638,5 @@ Visual Studio Codeのソース管理機能（左端の(4)となっているア�
 # Appendix
 
 - [Qiitaへの投稿](https://qiita.com/o_ob/items/11c787fa267873aab622)
-- [リポジトリ](https://github.com/kaitas/gatsby-firststep)
+- [このリポジトリ](https://github.com/kaitas/gatsby-firststep)
 
